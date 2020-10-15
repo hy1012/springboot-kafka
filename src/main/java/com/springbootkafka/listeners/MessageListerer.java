@@ -1,7 +1,7 @@
 package com.springbootkafka.listeners;
 
-import com.springbootkafka.listener.HyEvent;
-import com.springbootkafka.listener.HyListener;
+import com.huyan.listener.HyEvent;
+import com.huyan.listener.HyListener;
 import org.springframework.stereotype.Component;
 
 /**
